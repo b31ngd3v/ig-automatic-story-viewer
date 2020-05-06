@@ -44,7 +44,6 @@ for username in usrname:
 browser.quit()
 
 print(f'''
-
 Python Program by
       ___   ___ _      _         
      | _ \ / __(_)_ _ | |_  __ _ 
