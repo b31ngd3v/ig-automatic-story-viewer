@@ -50,7 +50,7 @@ Python Program by
      |  _/ \__ \ | ' \| ' \/ _` |
      |_|   |___/_|_||_|_||_\__,_|
 
-    Follow me on Instagram @sinha.py 
+    Follow me on Instagram @codeinpy 
 
-    Github @sinhapy
+    Github codein-py
 ''')
