@@ -29,7 +29,7 @@ pip install selenium
 
 ## Run
 
-* Run the programme using:
+* Run the program using:
 
 ```bash
 python story_viewer.py
