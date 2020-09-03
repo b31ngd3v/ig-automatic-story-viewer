@@ -4,7 +4,7 @@ from selenium.webdriver.chrome.options import Options
 import time
 
 
-usrnames = ['psinha_09']  # Account on which You want to send views
+usrnames = ['b31ngd3v']  # Account on which You want to send views
 
 chrome_options = Options()
 chrome_options.add_argument(
@@ -50,7 +50,7 @@ Python Program by
      |  _/ \__ \ | ' \| ' \/ _` |
      |_|   |___/_|_||_|_||_\__,_|
 
-    Follow me on Instagram @codeinpy 
+    Follow me on Instagram @b31ngd3v 
 
-    Github codein-py
+    Github b31ngd3v
 ''')
